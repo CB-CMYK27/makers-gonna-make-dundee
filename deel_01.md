@@ -1,6 +1,6 @@
 # Part 1: Setting up the development environment
 
-- [ ] Fork [the repository](https://github.com/louwers/maplibre-workshop-foss4gnl-2025).
+- [ ] Fork [the repository](https://github.com/louwers/makers-gonna-make-dundee).
 
 ---
 
